@@ -21,7 +21,7 @@ if($roomCount>0)
 		$dynamicList.='<tr class="'.$room_type.' room">
 						<td align="center">'.$room_no.'</td>
 						<td align="center">'.$room_type.'</td>
-						<td align="center">Rs. '.$charge.'</td>
+						<td align="center">Taka. '.$charge.'</td>
 					   </tr>';
 					   //onClick="alert($(this).find(\'td:first\').text())"
 					  
