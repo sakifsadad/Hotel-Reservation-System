@@ -212,8 +212,8 @@
                 <td>
                   <select name="id_proof" id="id_proof" class="text_box">
                   <option value="dl">Driving licence</option>
-                  <option value="pc">Passport</option>
-                  <option value="vid">National ID Card</option>
+              
+                  <option value="vid">Votar ID Card</option>
                   
                   </select>                </td>
               </tr>
