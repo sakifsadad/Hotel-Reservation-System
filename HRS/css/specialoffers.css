@@ -1,0 +1,78 @@
+*
+{
+	margin: 0;
+	padding: 0;
+
+}
+
+header
+{
+	background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(../images/specialoffers/special.jpg);
+	height:95vh;
+
+	background-size: cover;
+	background-position: center;
+}
+
+.name-font
+{
+	color: orange;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 50px;
+}
+
+.main-nav
+{
+	float:middle;
+	list-style: none;
+	margin-top: 40px;
+}
+
+
+.main-nav li
+{
+	display: inline-block;
+}
+
+.main-nav li a
+{
+	color:white;
+	text-decoration: none;
+	padding: 5px 15px;
+	font-family: "Roboto", sens-serif;
+	font-size: 20px;
+}
+
+.main-nav li.active a
+{
+	border: 2px solid orange;
+}
+
+.main-nav li a:hover
+{
+	border: 2px solid white;
+}
+
+
+.custom-header-text
+{
+	font-family: "Segoe UI",Arial,sans-serif;
+	font-weight: 400; 
+	font-size: 16px;
+	margin-top: 300px;
+	margin-left: 69%;
+	color: orange;
+}			
+
+h2{
+	text-align: center;
+	font-size: 90px;
+	color: orange;
+	text-decoration-line: underline;
+}
+
+
+.image{
+	margin-top: 40px;
+	margin-bottom: 30px;
+}

@@ -1,0 +1,166 @@
+*
+{
+	margin: 0;
+	padding: 0;
+
+}
+
+header
+{
+	background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(../images/reservation/reserve.jpg);
+	height:95vh;
+
+	background-size: cover;
+	background-position: center;
+}
+
+.name-font
+{
+	color: orange;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 50px;
+}
+
+.main-nav
+{
+	float:middle;
+	list-style: none;
+	margin-top: 40px;
+}
+
+
+.main-nav li
+{
+	display: inline-block;
+}
+
+.main-nav li a
+{
+	color:white;
+	text-decoration: none;
+	padding: 5px 15px;
+	font-family: "Roboto", sens-serif;
+	font-size: 20px;
+}
+
+.main-nav li.active a
+{
+	border: 2px solid orange;
+}
+
+.main-nav li a:hover
+{
+	border: 2px solid white;
+}
+
+
+.custom-header-text
+{
+	font-family: "Segoe UI",Arial,sans-serif;
+	font-weight: 400; 
+	font-size: 16px;
+	margin-top: 300px;
+	margin-left: 69%;
+	color: orange;
+}			
+
+
+.text1{
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 30px;
+}
+
+h2{
+	color: orange;
+
+}
+
+h1{
+	margin-left: 50px;
+	color: orange;
+}
+
+
+.policy{
+	margin-left: 100px;
+}
+
+h3{
+	color: orange;
+	margin-bottom: 15px;
+	font-size: 30px;
+}
+
+.text{
+	font-size: 15px;
+	margin-bottom: 30px;
+
+}
+
+
+
+
+
+
+
+
+#ajax_div{
+				  overflow: visible;
+				  position: absolute;
+				  top: 186px;
+				  right: 18px;
+				  background-color: orange;
+				  margin-top: 750px;
+				  width: 614px;
+				  height: 601px;
+				  border: thin #CCCCCC solid;
+				  font-weight: lighter;
+				  display: none;
+				  border: thin #6E6E6E solid;
+
+				}
+				
+
+.double			{
+					background-color:#99F0EE;
+					
+					
+				}
+
+.single			{
+					background-color:#EFC8C7;
+				}
+
+.vip			{
+					background-color:#E1A9F3;
+				}
+
+table#room_tab tr:hover{
+								background-color:#519BD9;
+								color:#FFFFFF;
+						}
+						
+#main_table td	{
+					padding:10px 5px 5px 20px;
+				}
+
+#main_table		{
+					background-color:#FFFFFF;
+					border-collapse:collapse;
+					border:thin #DDDDDD solid;
+					box-shadow: 0px 10px 8px -5px #8C8C8C;
+					margin-top:12px;
+
+				}
+#heading		{
+					background-color:orange; 
+					padding:5px 300px 5px 300px; 
+					color:#FFFFFF;
+					box-shadow: 0px 10px 8px -5px #8C8C8C;
+				}
+
+
+
+
+
